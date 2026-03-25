@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "calculator-app"
-        DOCKERHUB_USER = "pranaymedipally"
+        IMAGE_NAME = "register"
+        DOCKERHUB_USER = "sharath4802"
     }
 
     stages {
